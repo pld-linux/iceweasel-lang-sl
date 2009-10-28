@@ -2,12 +2,12 @@
 Summary:	Slovene resources for Iceweasel
 Summary(pl.UTF-8):	Słoweńskie pliki językowe dla Iceweasela
 Name:		iceweasel-lang-%{_lang}
-Version:	3.5.3
+Version:	3.5.4
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	9a162ad46f094a1c941e0e6c63f23668
+# Source0-md5:	70b3d8933ee9246337df218846adb802
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
